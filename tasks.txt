@@ -1,0 +1,4 @@
+when reloading fetch for ESTIN repo all existing repo and synchronize it whith what in MYSQL DB and MONGODB to keep it update it
+
+
+add if applicable to change from repo to repo or from folder to folder
